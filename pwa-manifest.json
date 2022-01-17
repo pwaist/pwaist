@@ -1,0 +1,59 @@
+{
+    "name": "PWA.ist \/\/ ein PWA APP Store, Blog und Videos",
+    "short_name": "PWA.ist",
+    "description": "_ein Blog, ein PWA APP Store und eine Video Wissens Seite. Außerdem finden Sie ein paar informative Angebote. Bei Interesse einfach melden.",
+    "icons": [
+        {
+            "src": "https:\/\/pwa.ist\/wp-content\/uploads\/2021\/10\/PWA.ist_maskable_icon_x192.png",
+            "sizes": "192x192",
+            "type": "image\/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/pwa.ist\/wp-content\/uploads\/2021\/10\/PWA.ist_maskable_icon_x192.png",
+            "sizes": "192x192",
+            "type": "image\/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https:\/\/pwa.ist\/wp-content\/uploads\/2021\/10\/PWA.ist_maskable_icon_x512-1.png",
+            "sizes": "512x512",
+            "type": "image\/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/pwa.ist\/wp-content\/uploads\/2021\/10\/PWA.ist_maskable_icon_x512-1.png",
+            "sizes": "512x512",
+            "type": "image\/png",
+            "purpose": "maskable"
+        }
+    ],
+    "background_color": "rgb(31,31,31)",
+    "theme_color": "rgb(31,31,31)",
+    "display": "standalone",
+    "orientation": "any",
+    "start_url": "https:\/\/pwa.ist\/",
+    "scope": "https:\/\/pwa.ist\/",
+	"screenshots": [
+   {
+    "src": "screenshots/start.jpg",
+     "sizes": "375x812",
+     "type": "image/jpg"
+   },
+		{
+    "src": "screenshots/appstore.jpg",
+     "sizes": "375x812",
+     "type": "image/jpg"
+   },
+				{
+    "src": "screenshots/navi.jpg",
+     "sizes": "375x812",
+     "type": "image/jpg"
+   },
+				{
+    "src": "screenshots/navi2.jpg",
+     "sizes": "375x812",
+     "type": "image/jpg"
+   }
+]
+}
